@@ -1,0 +1,12 @@
+{
+    "id":12,
+    "marca": "Fierce",
+    "modelo": "FM18SI29AM211",
+    "rodado": 16,
+    "anioFab" :2019,
+    "color" :"Celeste",
+    "pesokg":13,
+    "tipo" :"Montañera",
+    "precio":25000,
+    "vendida": false
+}
